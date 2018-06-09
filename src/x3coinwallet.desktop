@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=X3Coin
+GenericName=X3Coin wallet
+Name[uk]=Карбованeць
+Name[ru]=Карбованeц
+Name[pl]=X3Coinwaneć
+Name[be]=Карбованэць
+Name[de]=X3Coin
+Name[es]=X3Coin
+Comment=X3Coin wallet
+Comment[uk]=Гаманець Карбованца
+Comment[ru]=Кошелек Карбованца
+Comment[pl]=Portfel X3Coinwańca
+Comment[be]=Кашалёк Карбованца
+Comment[de]=X3Coin Brieftasche
+Comment[es]=X3Coin Monedero
+Exec=x3coin %U
+Terminal=false
+Type=Application
+Icon=x3coin
+MimeType=x-scheme-handler/x3coin;
+Categories=Office;Finance;
+Version=1.2.3
